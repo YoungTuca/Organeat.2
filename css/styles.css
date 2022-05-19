@@ -1,0 +1,213 @@
+#title {
+  background-color: #4E944F;
+  color: #fff;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+h2 {
+  color: black;
+  font-weight: 500;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.autor {
+  text-shadow: 0 0 2px black;
+  color: white;
+}
+
+h3 {
+  font-weight: bold;
+  color: black;
+}
+
+p {
+  color: gray;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  text-shadow: 0 0 2px black;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+}
+
+/* Texto de introducción */
+.introduction-text {
+  font-family: 'Ubuntu', sans-serif;
+  text-shadow: 0 0 2px black;
+  text-align: center;
+  padding: 0 15% 7%;
+
+}
+
+
+/* Download Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+  text-shadow: 0 0 2px gray;
+}
+
+/* Quienes Somos */
+#quienes-somos {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+  padding: 5% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 2%;
+}
+
+.icon {
+  color: #83BD75;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #4E944F;
+}
+
+.p-quienes-somos {
+  padding: 0 15%;
+}
+
+/* Planes */
+#planes {
+  padding: 5%;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.pricing-dog {
+  margin-top: 10px;
+}
+
+/* Unite a la comunidad */
+#uco {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #4E944F;
+  padding-top: 8%;
+  color: white;
+  text-shadow: 0 0 2px black;
+  font-style: bold;
+}
+
+.download-button-bottom {
+  margin: 0.5% 0.5% 0;
+}
+
+.p-buttons {
+padding:0 10% 0 10%;
+
+color: white;
+}
+
+.formulario {
+  padding-bottom: 5%;
+}
+.col {
+  padding: 1%;
+}
+.form-group {
+  padding: 1%;
+}
+
+.form-control {
+  width: 20%;
+position: relative;
+left: 40%;}
+
+.form-check-label {
+position: relative;
+right: 45%}
+
+.button {
+  margin-top: 1%;
+}
+
+/* Sponsors */
+#press {
+  text-align: center;
+  background-color: #4E944F;
+}
+
+.h3-press {
+  padding-top: 5%;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  text-shadow: 0 0 2px black;
+  font-style: bold;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 5px 10px 10px;
+}
+
+.press-logo-organico {
+  width: 10%;
+  margin: 5px 10px 10px;
+}
+
+/* Footer */
+#footer {
+  text-align: center;
+  background-color: #white;
+  color: #4E944F;
+}
+
+.fa-brands-bottom {
+  text-align: center;
+  padding-top: 1%;
+}
+
+.fa-bottom {
+  margin: 20px 10px;
+}
+
+.copyright {
+  margin-bottom: 0;
+  color: #019267;
+  padding-bottom: 1%
+}
+
+@media screen and (max-width:1060px) {
+  .nav-link {
+    font-size: 17px;
+  }
+
+
+}
